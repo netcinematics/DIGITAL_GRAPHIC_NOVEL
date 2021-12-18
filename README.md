@@ -40,9 +40,26 @@ Straight to the point - OpenSea does NOT do what I need it to do. The Graphic No
 
        What seems to be missing, at time of writing, is a PRECISE WAY TO DEVELOP the SMART CONTRACT. I'm drowning in a "sea" of OpenZeppelin variations and it is not even clear if I've arrived at a contract that works - or if it has nefarious bugs with re-entrancy or addition overflow. 
        
-       > How is Solidity "more secure", and "Turing Complete" is desirable - while it includes Big Number Overflow and Underflow? This was an additional huge shock. Similar to the FALLBACK function for contract that do not implement RECEIVE. To be honest, this feels tacky. Another glaring hurdle in this cloud of confusion, in withdraw() implementation. It needs to be implemented to actually get the profits? And if it is left out - no money? Permanently? But when is it needed? It seems like that is only an issue for 721 not 1155? Why is this not a Standard mixin? Answers like that... are NON TRIVIAL to find. And Im not about to tell you "That's all!" Because I'm getting tired of seeing that, at the bottom of many tutorials. Like a rite-of-passage into the CRYPTO-WURLDZ - "That's all folks", BugsBunny. I assure you, in CRYPTO... "That is NOT all!"
-       > How is there no standard CREATOR slot. I find this amazing that CREATOR, DATE, and LICENSE is not included... in a SMART CONTRACT? The answer to that is equally hilarious - "they are expensive". As a FULL STACK ARCHITECT familiar with DCMA and COPYRIGHT - word to the wise - seems like an oversight. But, I try not to laugh that a completely useless "Ticker Symbol" is included in the 721 standard. Sometimes I just cry myself to sleep (late) at night - and "That's it!". 
-       > DATES will be handled on a NODE.js server - because DATES are messed up on Solidity? Also concatenating Strings is weird on Solidity? Seems like this great new technology, has another iteration waiting in the wings (please just use JS - what is the problem). Number overflows and underflows are... (may I say) ridiculous, for things as important as contract. I am 20 year vetran from C/C++/C# and others - so I can say that. 
-       > How have we not come up with something ... closer to perfect ... than this? NFTs appear to be in an extreemely narrow use case. Please contact me at netcinematics (at) protonmail.com if you have the answers. I evaluated CARDANO, and SOLANA and found similar quirks there. Not a fan of the Daedalus wallet - just saying. Can anyone even spell it! Can we find a MORE CRYPTIC name... that I can barely spell to be MY WALLET please? Wait. Don't answer that.
+ - How is Solidity "more secure", and "Turing Complete" is desirable - while it includes Big Number Overflow and Underflow? 
+ - This was an additional huge shock. Similar to the FALLBACK function for contract that do not implement RECEIVE. 
+ - To be honest, this feels tacky. Another glaring hurdle in this cloud of confusion, in withdraw() implementation. 
+ - It needs to be implemented to actually get the profits? And if it is left out - no money? Permanently? But when is it needed? 
+ - It seems like that is only an issue for 721 not 1155? Why is this not a Standard mixin? Answers like that... are NON TRIVIAL to find. 
+ - And Im not about to tell you "That's all!" Because I'm getting tired of seeing that, at the bottom of many tutorials. 
+ - Like a rite-of-passage into the CRYPTO-WURLDZ - "That's all folks", BugsBunny. I assure you, in CRYPTO... "That is NOT all!"
+
+
+  - How is there no standard CREATOR slot. I find this amazing that CREATOR, DATE, and LICENSE is not included... in a SMART CONTRACT? 
+  - The answer to that is equally hilarious - "they are expensive". 
+  - As a FULL STACK ARCHITECT familiar with DCMA and COPYRIGHT - word to the wise - seems like an oversight. 
+  - But, I try not to laugh that a completely useless "Ticker Symbol" is included in the 721 standard. 
+  - Sometimes I just cry myself to sleep (late) at night - and "That's it!". 
+  
+  - DATES will be handled on a NODE.js server - because DATES are messed up on Solidity? 
+  - Also concatenating Strings is weird on Solidity? 
+  - Seems like this great new technology, has another iteration waiting in the wings (please just use JS - what is the problem). 
+  - Number overflows and underflows are... (may I say) ridiculous, for things as important as contract. I am 20 year vetran from C/C++/C# and others - so I can say that. 
+  
+   How have we not come up with something ... closer to perfect ... than this? NFTs appear to be in an extreemely narrow use case. Please contact me at netcinematics (at) protonmail.com if you have the answers. I evaluated CARDANO, and SOLANA and found similar quirks there. Not a fan of the Daedalus wallet - just saying. Can anyone even spell it! Can we find a MORE CRYPTIC name... that I can barely spell to be MY WALLET please? Wait. Don't answer that.
 ---       
        
