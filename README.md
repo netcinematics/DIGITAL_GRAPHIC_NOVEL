@@ -60,6 +60,16 @@ Straight to the point - OpenSea does NOT do what I need it to do. The Graphic No
   - Seems like this great new technology, has another iteration waiting in the wings (please just use JS - what is the problem). 
   - Number overflows and underflows are... (may I say) ridiculous, for things as important as contract. I am 20 year vetran from C/C++/C# and others - so I can say that. 
   
-   How have we not come up with something ... closer to perfect ... than this? NFTs appear to be in an extreemely narrow use case. Please contact me at netcinematics (at) protonmail.com if you have the answers. I evaluated CARDANO, and SOLANA and found similar quirks there. Not a fan of the Daedalus wallet - just saying. Can anyone even spell it! Can we find a MORE CRYPTIC name... that I can barely spell to be MY WALLET please? Wait. Don't answer that.
+   How have we not come up with something ... closer to perfect ... than this? NFTs appear to be in an extreemely narrow use case. 
+   
+   - Please contact me at netcinematics (at) protonmail.com if you have the answers. 
+   - I evaluated CARDANO, and SOLANA and found similar quirks there. 
+   - Like I just can't bring myself to list RUST on my resume. I'm trying to get past that persona!
+   - Not a fan of the Daedalus wallet - just saying. Can anyone even spell it? I have to look every time.
+   - Can we find a MORE CRYPTIC name... that I can barely spell to be MY WALLET please? Wait. Don't answer that.
 ---       
-       
+## ALL IN ALL
+
+All in all, I love CRYPTO. It is like a puppy that does really bad things to my perfect landscaping, and other things. So I have patience. But seriously, navigating this CRYPTO-BOOM is non-trivial, let's stop pretending it is. Getting Smart Contract correct and secure takes HARD WORK, and is NOT MAGIC. The DOCS are actually fantastic, I have to give kudos there. But they are actually massive to comprehend. As I go through the SOLUTIONS (one by one) I will post the answers here to help keep my mind clear. Thanks for reading, and maybe someday this EPISODIC GRAPHIC NOVEL will exist on the BLOCKCHAIN, as a FOREVER~REALITY (that isn't immediately hacked into oblivion). Who knows.
+
+> spazeFalcon ~ : )
