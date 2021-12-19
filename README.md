@@ -21,8 +21,10 @@ The PURPOSE of this project is to CREATE A PRECISE CONTRACT and Web3 DAPP, CAPAB
 - Solidity in Remix and VSCode (plugin)
 
 In addition there are a plethora tools still under evaluation:
+- https://defender.openzeppelin.com/#/
 - https://mintnft.today/
-- 
+- https://www.optimism.io/
+- https://docs.alchemy.com/alchemy/apis/polygon-api
 ----
 ### GOALS of Graphic Novel Series
 Straight to the point - OpenSea does NOT do what I need it to do. The Graphic Novel Series is NOT going to be CryptoKiddies Or Vfriends. It is supposed to be a MOVIE, GAME, BOOK, APP on the Blockchain. That mints based on countdown dates, and reveals content automatically each month. Hosted (for FREE) on IPFS and GitPages, etc. Looking at current SMART CONTRACTS, it is NOT CLEAR what is needed to modify ERC721 OR ERC1155 to meet the needs.
