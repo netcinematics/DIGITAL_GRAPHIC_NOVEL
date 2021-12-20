@@ -1,5 +1,6 @@
 # DIGITAL_GRAPHIC_NOVEL
-GOAL: create a Digital Graphic Novel Series on the BLOCKCHAIN!
+GOAL: create EPISODIC SERIES, potentially forever - "NFTz", pronounced [NFT - ZEE!] or [Nifty - zuh].
+Graphic Novel Seriez for the BLOCKCHAINz!
 
 Sounds easy enough, what could be so difficult? Well, it isn't easy. With all the visuals, story and audio complete all that remains is for the CINEMATIC to be uploaded to the BLOCKCHAIN. Where a massive expanse of Web3, DApp, and Crypto technology awaits us.
 
